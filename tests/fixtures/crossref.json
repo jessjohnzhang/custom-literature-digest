@@ -1,0 +1,39 @@
+{
+  "message": {
+    "items": [
+      {
+        "DOI": "10.1234/ev.2026.1",
+        "title": ["Spatial optimisation for resilient electric vehicle charging infrastructure"],
+        "author": [{"given": "Amina", "family": "Khan"}, {"given": "Leo", "family": "Smith"}],
+        "container-title": ["Applied Energy"],
+        "published-online": {"date-parts": [[2026, 7, 12]]},
+        "abstract": "<jats:p>We develop a spatial optimisation model for charging station planning under grid outages. The model improves charging resilience through redundant siting.</jats:p>",
+        "URL": "https://doi.org/10.1234/ev.2026.1"
+      },
+      {
+        "DOI": "10.1234/ev.2026.2",
+        "title": ["Machine learning for urban bus arrival prediction"],
+        "author": [{"given": "No", "family": "Match"}],
+        "container-title": ["Transport Policy"],
+        "published": {"date-parts": [[2026, 7, 13]]},
+        "abstract": "A machine learning approach predicts bus arrival times."
+      },
+      {
+        "DOI": "10.1234/other.2026.1",
+        "title": ["Smart charging for electric vehicle flexibility markets"],
+        "author": [{"given": "Out", "family": "Scope"}],
+        "container-title": ["Example Journal"],
+        "published": {"date-parts": [[2026, 7, 14]]},
+        "abstract": "Smart charging supports electric vehicle flexibility."
+      },
+      {
+        "DOI": "10.1234/ev.2026.3",
+        "title": ["Forecasting electric vehicle charging demand with deep learning"],
+        "author": [{"given": "Mei", "family": "Chen"}],
+        "container-title": ["Transportation Research Part C: Emerging Technologies"],
+        "published-online": {"date-parts": [[2026, 7, 15]]},
+        "abstract": "We propose a deep learning method for charging demand prediction. Results show improved short-term forecasts."
+      }
+    ]
+  }
+}
