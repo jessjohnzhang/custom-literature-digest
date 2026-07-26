@@ -1,0 +1,4 @@
+interface:
+  display_name: "Custom Literature Digest"
+  short_description: "Monitor papers and deliver tailored digests"
+  default_prompt: "Use $custom-literature-digest to configure and run my personalized literature monitoring digest."
