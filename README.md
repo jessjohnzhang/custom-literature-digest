@@ -1,4 +1,7 @@
-# Custom Literature Digest
+<h1>
+  <img src="assets/logo-128.png" width="48" height="48" align="absmiddle" alt="Custom Literature Digest logo">
+  Custom Literature Digest
+</h1>
 
 An installable Codex skill for monitoring selected journals and research topics, generating an interactive literature dashboard, and preparing scheduled email digests.
 
