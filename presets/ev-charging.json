@@ -1,0 +1,33 @@
+{
+  "profile_name": "EV Charging Literature Intelligence",
+  "journals": [
+    {"name": "Energy", "aliases": []},
+    {"name": "Energy Policy", "aliases": []},
+    {"name": "Applied Energy", "aliases": []},
+    {"name": "Renewable and Sustainable Energy Reviews", "aliases": ["RSER"]},
+    {"name": "Transportation Research Part A: Policy and Practice", "aliases": ["Transportation Research Part A"]},
+    {"name": "Transportation Research Part B: Methodological", "aliases": ["Transportation Research Part B"]},
+    {"name": "Transportation Research Part C: Emerging Technologies", "aliases": ["Transportation Research Part C"]},
+    {"name": "Transportation Research Part D: Transport and Environment", "aliases": ["Transportation Research Part D"]},
+    {"name": "Transportation Research Part E: Logistics and Transportation Review", "aliases": ["Transportation Research Part E"]},
+    {"name": "Journal of Transport Geography", "aliases": []},
+    {"name": "Transport Reviews", "aliases": []},
+    {"name": "Transport Policy", "aliases": []}
+  ],
+  "topics": [
+    {"name": "EV charging infrastructure planning", "terms": ["charging infrastructure", "charging station planning", "charger siting", "charging network planning", "location allocation"]},
+    {"name": "EV charging demand forecasting", "terms": ["charging demand forecast", "charging demand prediction", "charging load forecast", "charging demand"]},
+    {"name": "EV charging utilisation prediction", "terms": ["charging utilisation", "charger utilization", "station occupancy", "charging usage prediction"]},
+    {"name": "EV charging resilience", "terms": ["charging resilience", "resilient charging", "charging network reliability", "outage"]},
+    {"name": "EV flexibility and flexibility markets", "terms": ["electric vehicle flexibility", "flexibility market", "demand response", "grid flexibility"]},
+    {"name": "Smart charging", "terms": ["smart charging", "managed charging", "coordinated charging"]},
+    {"name": "Intelligent charging", "terms": ["intelligent charging", "adaptive charging", "autonomous charging"]},
+    {"name": "Vehicle-to-Grid and Vehicle-to-Everything", "terms": ["vehicle-to-grid", "vehicle to grid", "v2g", "vehicle-to-everything", "v2x"]},
+    {"name": "AI, machine learning, optimisation, and spatial analysis applied to EV charging", "terms": ["machine learning", "artificial intelligence", "deep learning", "optimization", "optimisation", "spatial analysis", "geospatial"]}
+  ],
+  "required_context_terms": ["electric vehicle", "electric vehicles", "ev charging", "charging station", "charging infrastructure", "charger", "v2g", "v2x"],
+  "search": {"frequency": "daily", "lookback_days": 8, "rows_per_journal": 100},
+  "digest": {"frequency": "weekly", "weekday": "friday", "time": "17:00", "timezone": "Europe/London"},
+  "delivery": {"provider": "none", "recipients": []},
+  "dashboard": {"visibility": "local"}
+}
