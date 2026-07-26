@@ -1,5 +1,5 @@
 <h1>
-  <img src="assets/logo-128.png" width="48" height="48" align="absmiddle" alt="Custom Literature Digest logo">
+  <img src="assets/logo-400.png" width="52" height="52" align="absmiddle" alt="Custom Literature Digest logo">
   Custom Literature Digest
 </h1>
 
